@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Calculator/Calculator.csproj">
+    <Deploy Solution="Debug|*" />
+  </Project>
+  <Project Path="Logic/Logic.csproj" />
+  <Project Path="LogicTests/LogicTests.csproj" />
+</Solution>
